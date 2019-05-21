@@ -14,6 +14,11 @@ case class Variable(name: String) extends Term {
   def valuedWith(a: Assignment) = a(this)
 }
 
+case class Add(ts: Seq[Term]) extends Term{
+  def vars = ts.map(t => t.vars).toSet.flatten
+  def valuedWith(a:Assignment): Int = ts.map(t => t.valuedWith(a)).sum
+}
+
 case class Domain(values: Seq[Int]) extends Expression{
   def lb = values.min
   def ub = values.max
@@ -93,26 +98,28 @@ object Assignment{
   * @param x2
   */
 
-case class Add(ts: Seq[Term]) extends Term{
-  def vars = ???
-  def valuedWith(a:Assignment): Int = ???
-}
+
 
 case class Ne(x1: Term, x2: Term) extends Constraint{
   def vars = x1.vars ++ x2.vars
   def isSatisfiedWith(a: Assignment) = x1.valuedWith(a) != x2.valuedWith(a)
 }
 
-case class Eq(x1: Variable, x2: Variable) extends Constraint{
+case class Eq(x1: Term, x2: Term) extends Constraint{
   def vars = x1.vars ++ x2.vars
   def isSatisfiedWith(a: Assignment) = x1.valuedWith(a) == x2.valuedWith(a)
 }
 
-case class Ge(x1: Variable, x2: Variable) extends Constraint{
+case class Ge(x1: Term, x2: Term) extends Constraint{
   def vars = x1.vars ++ x2.vars
   def isSatisfiedWith(a: Assignment) = x1.valuedWith(a) > x2.valuedWith(a)
 }
 
+/**
+case class Alldifferent(ts: Seq[Term]) extends Constraint{
+
+}
+**/
 
 
 object cspFactory {
