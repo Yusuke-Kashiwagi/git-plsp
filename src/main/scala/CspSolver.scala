@@ -63,3 +63,31 @@ class BT extends CspSolver {
     bt(csp.vars, Assignment())
   }
 }
+
+class myBT extends CspSolver {
+  def solve(csp: CSP): Option[Assignment] = {
+
+    def selectVariable(xs: Seq[Variable]): (Variable, Seq[Variable]) = (xs.head, xs.tail)
+    def valueOrder(dom: Domain): Seq[Int] = dom.values
+
+    def bt(xs: Seq[Variable], partialAssign: Assignment): Option[Assignment] = {
+
+      if (xs.isEmpty)
+        return Some(partialAssign)
+
+      val (x, remain) = selectVariable(xs)
+      for (v <- valueOrder(csp.doms(x))) {
+        val partial = partialAssign + (x -> v) // 変数 x に値 v を新たに割当てる
+        /* 検査が通れば次の値割当てを行う */
+        if (csp.cons.filter(c => c.vars.forall(partial.contains)).forall(_.isSatisfiedWith(partial))) {
+          val sol = bt(remain, partial)
+          if (sol.nonEmpty)
+            return sol
+        }
+      }
+      None
+    }
+
+    bt(csp.vars, Assignment())
+  }
+}

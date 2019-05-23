@@ -2,61 +2,157 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0e2cfc3-9a98-47f0-89ab-942e904e7144" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.org" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/plspMay-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/plspMay-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/plspMay.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/plspMay.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1b0dd30b7c8bbb858544$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1b0dd30b7c8bbb858544.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1b0dd30b7c8bbb858544.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$51c689031608e60ca386$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$51c689031608e60ca386.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$51c689031608e60ca386.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$57c16812b1577ce673eb$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$57c16812b1577ce673eb.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$57c16812b1577ce673eb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$616fa450779fc7b5b496$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$616fa450779fc7b5b496.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$616fa450779fc7b5b496.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$95f1492f9bf2f4a09f6a$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$95f1492f9bf2f4a09f6a.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$95f1492f9bf2f4a09f6a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bcafb4e1d950c0cb873f$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bcafb4e1d950c0cb873f.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bcafb4e1d950c0cb873f.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c136e53deff6fb90819d$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c136e53deff6fb90819d.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c136e53deff6fb90819d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CspFiles/PLS03.csp" beforeDir="false" afterPath="$PROJECT_DIR$/CspFiles/PLS03.csp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CspFiles/PLS06.csp" beforeDir="false" afterPath="$PROJECT_DIR$/CspFiles/PLS06.csp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp.zip" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/CspFiles/._Alldiff-NQueen04.csp" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/CspFiles/._Alldiff-NQueen04.csp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/CspFiles/._NQueen04.csp" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/CspFiles/._NQueen04.csp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/CspFiles/PLS03.csp" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/CspFiles/PLS03.csp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/CspFiles/PLS06.csp" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/CspFiles/PLS06.csp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/README.org" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/README.org" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/git-plsp.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/default/git-plsp-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/default/git-plsp-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/default/git-plsp-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/default/git-plsp-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/src/main/scala/Application.scala" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/src/main/scala/Application.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/src/main/scala/CSP.scala" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/src/main/scala/CSP.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/src/main/scala/CspSolver.scala" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/src/main/scala/CspSolver.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/src/main/scala/SugarCspLangParser.scala" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/src/main/scala/SugarCspLangParser.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/191x205x.jar" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/191x205x.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Assignment$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Assignment$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Assignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Assignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/BT.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/BT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/CSP$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/CSP$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/CSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/CSP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Constraint.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Constraint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Domain$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Domain$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Domain.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Domain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Eq$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Eq$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Eq.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Eq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/GT.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/GT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Ge$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Ge$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Ge.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Ge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Ne$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Ne$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Ne.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/Ne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SGe$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SGe$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SGe.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SGe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SGt$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SGt$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SGt.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SGt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SLe$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SLe$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SLe.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SLe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SLt$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SLt$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SLt.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SLt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SugarCspLangParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/SugarCspLangParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/cspFactory$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/cspFactory$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/cspFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/cspFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/plspSolver$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/classes/plspSolver$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/plspmay/plspmay$sbt_2.12/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/plspmay/plspmay$sbt_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/plspmay/plspmay$sbt_2.12/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/plspmay/plspmay$sbt_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/plspmay/plspmay$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/plspmay/plspmay$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/plspmay/plspmay$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/plspmay/plspmay$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/plspmay/plspmay$sources_2.12/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/plspmay/plspmay$sources_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/plspmay/plspmay$sources_2.12/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/plspmay/plspmay$sources_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assembly/$global/streams/assembly-inputs" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assembly/$global/streams/assembly-inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assembly/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assembly/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Assignment$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Assignment$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Assignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Assignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/BT.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/BT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/CSP$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/CSP$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/CSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/CSP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Constraint.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Constraint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Domain$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Domain$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Domain.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Domain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Eq$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Eq$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Eq.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Eq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/GT.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/GT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ge$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ge$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ge.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ne$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ne$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ne.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGe$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGe$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGe.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGt$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGt$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGt.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLe$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLe$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLe.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLt$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLt$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLt.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SugarCspLangParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SugarCspLangParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/cspFactory$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/cspFactory$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/cspFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/cspFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/plspSolver$.class" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/plspSolver$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-plsp/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/git-plsp/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4f2af1a54ef429c6376f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4f2af1a54ef429c6376f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4f2af1a54ef429c6376f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/git-plsp-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/git-plsp-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/git-plsp-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/git-plsp-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-git-plsp-build-test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/Application.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Application.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/CSP.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/CSP.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/CspSolver.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/CspSolver.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Add$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Add$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Add.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SugarCspLangParser.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SugarCspLangParser.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/191x205x.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/191x205x.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Assignment$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Assignment$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Assignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Assignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/BT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/BT.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/CSP$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/CSP$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/CSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/CSP.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Constraint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Constraint.class" afterDir="false" />
@@ -69,9 +165,29 @@
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Ge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Ge.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Ne$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Ne$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Ne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Ne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/SGe$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/SGe$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/SGe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/SGe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/SGt$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/SGt$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/SGt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/SGt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/SLe$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/SLe$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/SLe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/SLe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/SLt$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/SLt$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/SLt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/SLt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/SugarCspLangParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/SugarCspLangParser.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/cspFactory$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/cspFactory$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/cspFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/cspFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/plspSolver$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/plspSolver$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plspmay/plspmay$sbt_2.12/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plspmay/plspmay$sbt_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plspmay/plspmay$sbt_2.12/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plspmay/plspmay$sbt_2.12/0.1/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plspmay/plspmay$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plspmay/plspmay$sources/0.1/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plspmay/plspmay$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plspmay/plspmay$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plspmay/plspmay$sources_2.12/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plspmay/plspmay$sources_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plspmay/plspmay$sources_2.12/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plspmay/plspmay$sources_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sbt_2.12-test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-compile-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-compile.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-optional.xml" afterDir="false" />
@@ -83,11 +199,48 @@
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-scala-tool.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plspmay-plspmay$sources_2.12-test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assembly/$global/streams/assembly-inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assembly/$global/streams/assembly-inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assembly/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assembly/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Assignment$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Assignment$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Assignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Assignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/BT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/BT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/CSP$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/CSP$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/CSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/CSP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Constraint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Constraint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Domain$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Domain$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Domain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Domain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Eq$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Eq$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Eq.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Eq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/GT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/GT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ge$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ge$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ne$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ne$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/Ne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGe$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGe$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGt$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGt$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SGt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLe$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLe$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLt$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLt$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SLt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SugarCspLangParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/SugarCspLangParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/cspFactory$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/cspFactory$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/cspFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/cspFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/plspSolver$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/assemblyOption/$global/streams/assembly/afadc72c0d2ad9f22d2a1714f433469c36df31a4_dir/plspSolver$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -112,8 +265,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Application.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-447">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            <state relative-caret-position="300">
+              <caret line="89" column="28" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -121,8 +274,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/CSP.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+            <state relative-caret-position="264">
+              <caret line="145" column="78" selection-start-line="145" selection-start-column="78" selection-end-line="145" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CspFiles/Sudokugame-org-190423-ne.csp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15795">
+              <caret line="1053" selection-start-line="1053" selection-end-line="1053" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -131,16 +293,7 @@
         <entry file="file://$PROJECT_DIR$/CspFiles/NQueen04.csp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CspFiles/Alldiff-NQueen04.csp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="13" />
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -148,22 +301,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CspFiles/PLS06.csp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+            <state relative-caret-position="598">
+              <caret line="313" column="5" selection-start-line="313" selection-start-column="5" selection-end-line="313" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CspFiles/PLS04.csp">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/CspFiles/PLS03.csp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.org">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            <state relative-caret-position="150">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -171,17 +328,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/CspSolver.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+            <state relative-caret-position="375">
+              <caret line="81" column="101" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="101" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/SugarCspLangParser.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="878">
-              <caret line="414" column="104" lean-forward="true" selection-start-line="414" selection-start-column="104" selection-end-line="414" selection-end-column="104" />
+            <state relative-caret-position="-776">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -193,9 +359,15 @@
       <find>ne</find>
       <find>alldiffe</find>
       <find>Alld</find>
-      <find>varFa</find>
       <find>ge</find>
       <find>add</find>
+      <find>SA</find>
+      <find>varFa</find>
+      <find>SInt</find>
+      <find>SEq</find>
+      <find>SNe</find>
+      <find>SNum</find>
+      <find>SIntVar</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -204,19 +376,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/CspSolver.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/README.org" />
         <option value="$PROJECT_DIR$/CspFiles/NQueen04.csp" />
-        <option value="$PROJECT_DIR$/src/main/scala/Application.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/CSP.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/SugarCspLangParser.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CSP.scala" />
+        <option value="$PROJECT_DIR$/CspFiles/PLS06.csp" />
+        <option value="$PROJECT_DIR$/CspFiles/PLS03.csp" />
+        <option value="$PROJECT_DIR$/src/main/scala/Application.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CspSolver.scala" />
+        <option value="$PROJECT_DIR$/README.org" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="980" />
-    <option name="width" value="940" />
+    <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -228,6 +401,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,7 +437,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,10 +537,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="754" y="0" width="1166" height="1080" extended-state="6" />
-    <editor active="true" />
+    <frame x="703" y="0" width="1217" height="1080" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28914592" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28170213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -383,8 +555,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3299435" />
       <window_info anchor="bottom" id="SBT Console" order="8" weight="0.32970297" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" visible="true" weight="0.32970297" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32970297" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" weight="0.32970297" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32970297" />
@@ -422,6 +594,21 @@
     <entry file="file://$PROJECT_DIR$/CspFiles/TEST08.csp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/CspFiles/PLS12.csp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49145" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CspFiles/Alldiff-NQueen04.csp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CspFiles/PLS04.csp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -429,67 +616,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.org">
+    <entry file="file://$PROJECT_DIR$/CspFiles/Sudokugame-org-190423-ne.csp">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CspFiles/Alldiff-NQueen04.csp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/CspSolver.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CspFiles/PLS12.csp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49145" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CspFiles/PLS04.csp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CspFiles/PLS06.csp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+        <state relative-caret-position="15795">
+          <caret line="1053" selection-start-line="1053" selection-end-line="1053" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Application.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-447">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="300">
+          <caret line="89" column="28" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SugarCspLangParser.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-776">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CspFiles/NQueen04.csp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="14" />
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/CSP.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        <state relative-caret-position="264">
+          <caret line="145" column="78" selection-start-line="145" selection-start-column="78" selection-end-line="145" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/SugarCspLangParser.scala">
+    <entry file="file://$PROJECT_DIR$/CspFiles/PLS03.csp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="878">
-          <caret line="414" column="104" lean-forward="true" selection-start-line="414" selection-start-column="104" selection-end-line="414" selection-end-column="104" />
+        <state relative-caret-position="265">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CspSolver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="81" column="101" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CspFiles/PLS06.csp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="313" column="5" selection-start-line="313" selection-start-column="5" selection-end-line="313" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.org">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>

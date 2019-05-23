@@ -19,6 +19,11 @@ case class Add(ts: Seq[Term]) extends Term{
   def valuedWith(a:Assignment): Int = ts.map(t => t.valuedWith(a)).sum
 }
 
+case class Num(int: Int) extends Term {
+  def vars = Set(Variable("n" + int.toString))
+  def valuedWith(a: Assignment): Int = int
+}
+
 case class Domain(values: Seq[Int]) extends Expression{
   def lb = values.min
   def ub = values.max
@@ -117,13 +122,15 @@ case class Ge(x1: Term, x2: Term) extends Constraint{
 
 /**
 case class Alldifferent(ts: Seq[Term]) extends Constraint{
-
+  def vars = ts.map(t => t.vars).flatten
+  def isSatisfiedWith(a:Assignment) = ts.distinct.length == ts.length
 }
 **/
 
 
 object cspFactory {
   private[this] def varFactory(x: SIntVar): Variable = Variable(x.name)
+  private[this] def numFactory(x: SNum): Num = Num(x.n)
   private[this] def domFactory(d: SDomain) = {
     val ds = d.dom.foldLeft(Seq.empty[Int])((seq, lu) => seq ++ (lu._1 to lu._2))
     Domain(ds)
@@ -131,13 +138,15 @@ object cspFactory {
   private[this] def termFactory(t: SugarCspTerm): Term = {
     t match {
       case x: SIntVar => varFactory(x)
-      case t: SAdd => ???
+      case t: SAdd => Add(t.ts.map(termFactory(_)))
     }
   }
   private[this] def constraintFactory(c: SugarCspConstraint): Constraint = {
     c match {
       case SNe(t1: SIntVar, t2: SIntVar) => Ne(varFactory(t1), varFactory(t2))
-      case t: SAdd => ???
+      case SEq(t1: SIntVar, t2: SIntVar) => Eq(varFactory(t1), varFactory(t2))
+      case SEq(t1: SIntVar, t2: SNum) => Eq(varFactory(t1), numFactory(t2))
+      /**case SAlldifferent(ts: Seq[_]) => Alldifferent(ts.map(varFactory(_)))**/
     }
   }
   def fromFile(fileName: String): CSP = {

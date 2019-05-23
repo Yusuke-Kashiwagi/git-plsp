@@ -54,6 +54,8 @@ case class SEq(t1: SugarCspTerm, t2: SugarCspTerm) extends SugarCspConstraint
 
 case class SNe(t1: SugarCspTerm, t2: SugarCspTerm) extends SugarCspConstraint
 
+case class SAlldifferent(ts: Seq[SugarCspTerm]) extends SugarCspConstraint
+
 case class SLe(t1: SugarCspTerm, t2: SugarCspTerm) extends SugarCspConstraint
 
 case class SLt(t1: SugarCspTerm, t2: SugarCspTerm) extends SugarCspConstraint

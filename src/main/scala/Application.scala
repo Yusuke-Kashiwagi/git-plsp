@@ -89,7 +89,7 @@ object plspSolver {
 
     println("c Parse Done.")
 
-    val solver: CspSolver = new BT // new "自分ソルバークラス" を書く
+    val solver: CspSolver = new myBT // new "自分ソルバークラス" を書く
     val solution = solver.solve(csp)
     if (solution.nonEmpty) {
       println("s SAT")
